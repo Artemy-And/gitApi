@@ -34,9 +34,14 @@
     margin: 0;
     padding: 20px 0;
 }
+.cell a{
+    text-decoration: none;
+    color: darkblue;
+}
 
 .spinner{
     display: flex;
     justify-content: center;
 }
+
 
